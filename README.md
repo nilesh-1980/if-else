@@ -17,5 +17,17 @@ elif (budget - appleprice >70):
 else:
         print("alexa,you cannot add to my cart")
 
+        new program
+        num = int(input("enter the num value"))
+if (num <0):
+    print("num is negative")
+elif (num == 0):
+    print("num is zero")
+elif(num==999):
+        print ("number is special")
+else:
+      print("number is negative")
+      print ("i am happy now")
+
 
  
