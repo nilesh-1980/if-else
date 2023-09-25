@@ -1,1 +1,4 @@
 for i in color is use to seprate the word
+2
+for k in range (0,10):
+print(k)
